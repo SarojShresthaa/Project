@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\articlemain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\articlemain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\articlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\articlepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\teamitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\teamitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\qualificationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\qualificationblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\skillitemblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\skillitemblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\controllers\\surface\\contactsurfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\controllers\\surface\\contactsurfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blog-posts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blog-posts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\maincauses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\maincauses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\latestcauses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\latestcauses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\heroblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\mblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\mblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\navigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\textblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\textblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\views\\partials\\blockgrid\\components\\headlineblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\views\\partials\\blockgrid\\components\\headlineblock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|c:\\users\\saaro\\onedrive\\desktop\\gce(nepal)\\gce\\appsettings-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B39929D-6F53-4528-93D9-E357DE004DAD}|GCE\\GCE.csproj|solutionrelative:gce\\appsettings-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainCauses.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\mainCauses.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\mainCauses.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\mainCauses.cshtml",
+              "RelativeToolTip": "GCE\\Views\\mainCauses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T16:10:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "latestCauses.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\latestCauses.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\latestCauses.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\latestCauses.cshtml",
+              "RelativeToolTip": "GCE\\Views\\latestCauses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T16:10:53.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blog-Posts.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\Blog-Posts.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\Blog-Posts.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\Blog-Posts.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\Blog-Posts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:52:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactSurfaceController.cs",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Controllers\\Surface\\ContactSurfaceController.cs",
+              "RelativeDocumentMoniker": "GCE\\Controllers\\Surface\\ContactSurfaceController.cs",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Controllers\\Surface\\ContactSurfaceController.cs",
+              "RelativeToolTip": "GCE\\Controllers\\Surface\\ContactSurfaceController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawEIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:38:31.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "contactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\contactUs.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\contactUs.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\contactUs.cshtml",
+              "RelativeToolTip": "GCE\\Views\\contactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:31:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "skillItemBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\skillItemBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\skillItemBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\skillItemBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\skillItemBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:59:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "qualificationBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\qualificationBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\qualificationBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\qualificationBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\qualificationBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:17:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teamItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\teamItem.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\teamItem.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\teamItem.cshtml",
+              "RelativeToolTip": "GCE\\Views\\teamItem.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:31:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "team.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\team.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\team.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\team.cshtml",
+              "RelativeToolTip": "GCE\\Views\\team.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:30:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contentPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\contentPage.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\contentPage.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\contentPage.cshtml",
+              "RelativeToolTip": "GCE\\Views\\contentPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:21:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "articlePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\articlePage.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\articlePage.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\articlePage.cshtml",
+              "RelativeToolTip": "GCE\\Views\\articlePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T06:24:47.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "articleMain.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\articleMain.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\articleMain.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\articleMain.cshtml",
+              "RelativeToolTip": "GCE\\Views\\articleMain.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T06:24:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\mBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\mBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\mBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\mBlock.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T05:35:57.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "headlineBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\headlineBlock.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T05:11:03.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "textBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\textBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\textBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\textBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\textBlock.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T06:10:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "master.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\master.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\master.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\master.cshtml",
+              "RelativeToolTip": "GCE\\Views\\master.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T06:02:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "navigation.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\navigation.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\navigation.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\navigation.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\navigation.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T05:57:08.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\footer.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\footer.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\footer.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T05:56:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "heroBlock.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "RelativeToolTip": "GCE\\Views\\Partials\\blockgrid\\Components\\heroBlock.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T05:56:44.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "homePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\homePage.cshtml",
+              "RelativeDocumentMoniker": "GCE\\Views\\homePage.cshtml",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\Views\\homePage.cshtml",
+              "RelativeToolTip": "GCE\\Views\\homePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T05:27:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\appsettings.json",
+              "RelativeDocumentMoniker": "GCE\\appsettings.json",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\appsettings.json",
+              "RelativeToolTip": "GCE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T05:09:33.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings-schema.json",
+              "DocumentMoniker": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\appsettings-schema.json",
+              "RelativeDocumentMoniker": "GCE\\appsettings-schema.json",
+              "ToolTip": "C:\\Users\\saaro\\OneDrive\\Desktop\\GCE(Nepal)\\GCE\\appsettings-schema.json",
+              "RelativeToolTip": "GCE\\appsettings-schema.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T05:09:32.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
